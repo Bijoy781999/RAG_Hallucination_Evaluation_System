@@ -1,1 +1,1 @@
-[RAGTruth](https://github.com/ParticleMedia/RAGTruth) : https://github.com/ParticleMedia/RAGTruth
+RAGTruth : https://github.com/ParticleMedia/RAGTruth
